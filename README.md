@@ -14,7 +14,7 @@ The focus of this section is on defining user roles, establishing departments, a
 - Internet Information Services (IIS)
 - MySQL (Database Management)
 - PHP(Server-side Scripting Language)
-- HeidiSQL(Database Client
+- HeidiSQL(Database Client)
 
 <h2>Operating Systems Used </h2>
 - Windows 10</b> (21H2)
