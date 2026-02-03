@@ -41,7 +41,7 @@ Login Credentials:
 <b> Admin Panel vs. Agent Panel <b/>
 Once logged in, notice the tab in the top-right corner. Understanding the difference between the Admin Panel and Agent Panel is essential:
 
--Admin Panel: This is used to set up Departments, Roles, and System Settings.
+-Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
 -Agent Panel: This is the where tickets and users are managed.
 
 <h2>Configure Roles</h2>
