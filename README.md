@@ -44,6 +44,9 @@ Once logged in, notice the tab in the top-right corner. Understanding the differ
 -Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
 -Agent Panel: This is the where tickets and users are managed.
 
+<img width="1555" height="938" alt="Screenshot (1361)" src="https://github.com/user-attachments/assets/288c6430-c9ca-43bb-931e-04a2102bfa77" />
+<img width="1559" height="948" alt="Screenshot (1362)" src="https://github.com/user-attachments/assets/46549685-a69f-46ec-a9d8-1c1e5f045368" />
+
 <h2>Configure Roles</h2>
 Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff.
  1. <b>Naviagte:</b> Go to <b>Agents</b> &#8594; <b>Roles</b>
