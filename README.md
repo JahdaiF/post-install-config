@@ -49,8 +49,9 @@ Once logged in, notice the tab in the top-right corner. Understanding the differ
 
 <h2> 2. Configure Roles</h2>
 Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff.
- 1. <b>Naviagte:</b> Go to <b>Agents</b> &#8594; <b>Roles</b>
+ 1. <b>Naviagte:</b> Go to <b>Agents</b> &#8594; <b>Roles</b> <br>
  2. <b>Action:</b> Click <b>Add New Roles</b>
- 3. <b>Name:</b>
+ 3. <b>Name:</b> Enter "Supreme Admin"
+ 4. <b>Permissions:</b> Navigate through the tabs 
 
 
