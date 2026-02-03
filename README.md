@@ -29,5 +29,25 @@ The following URLs are used to access the osTicket environment:
 
 <h2>Post-Installation Configuration</h2>
 
-<h2> 1. Configure roles</h2>
+<h2> 1. Login & Interface Overview</h2>
+To begin the configuration, you must first login. <br>
+
+Login Credentials:
+- <b>URL:<b/> http://localhost/osTicket/scp
+- <b>Username:<b/> adminuser
+- <b>Password:<b/> Password1
+<img width="1548" height="942" alt="Screenshot (1375)" src="https://github.com/user-attachments/assets/114affc8-1ccf-4ce7-a5af-dae7f22a9ad7" />
+
+<b> Admin Panel vs. Agent Panel <b/>
+Once logged in, notice the tab in the top-right corner. Understanding the difference between the Admin Panel and Agent Panel is essential:
+
+-Admin Panel: This is used to set up Departments, Roles, and System Settings.
+-Agent Panel: This is the where tickets and users are managed.
+
+<h2>Configure Roles</h2>
+Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff.
+ 1. <b>Naviagte:</b> Go to <b>Agents</b> &#8594; <b>Roles</b>
+ 2. <b>Action:</b> Click <b>Add New Roles</b>
+ 3. <b>Name:</b>
+
 
