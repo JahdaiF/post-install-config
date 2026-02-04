@@ -52,6 +52,9 @@ Now that you are in the <b>Admin Panel</b>, we will create a Role to define spec
  1. <b>Naviagte:</b> Go to <b>Agents</b> &#8594; <b>Roles</b> <br>
  2. <b>Action:</b> Click <b>Add New Roles</b>
  3. <b>Name:</b> Enter "Supreme Admin"
- 4. <b>Permissions:</b> Navigate through the tabs 
+ 4. <b>Permissions:</b> Navigate through the tabs (Tickets, Tasks, Acknowledgements) and check the boxes to grant full authority. 
+ 5. <b>Save:</b> Click <b>Add Role</b>
+
+ <h2> 3</h2>
 
 
