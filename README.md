@@ -48,13 +48,20 @@ Once logged in, notice the tab in the top-right corner. Understanding the differ
 <img width="1559" height="948" alt="Screenshot (1362)" src="https://github.com/user-attachments/assets/46549685-a69f-46ec-a9d8-1c1e5f045368" />
 
 <h2> 2. Configure Roles</h2>
-Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff.
- 1. <b>Naviagte:</b> Go to <b>Agents</b> &#8594; <b>Roles</b> <br>
- 2. <b>Action:</b> Click <b>Add New Roles</b>
- 3. <b>Name:</b> Enter "Supreme Admin"
- 4. <b>Permissions:</b> Navigate through the tabs (Tickets, Tasks, Acknowledgements) and check the boxes to grant full authority. 
- 5. <b>Save:</b> Click <b>Add Role</b>
+Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff. Roles are used to manage staff authorizations. They establish a specific set of access rights which are granted to Agents based on their responsibilities.
+ 1. Go to <b>Agents</b> &#8594; <b>Roles</b> <br>
+ 2. Click <b>Add New Roles</b>
+ 3. Enter "Supreme Admin"
+ 4. Navigate through the tabs (Tickets, Tasks, Acknowledgements) and check the boxes to grant full authority. 
+ 5. Click <b>Add Role</b>
 
- <h2> 3</h2>
+ <h2> 3. Configure Departments</h2>
+Next we will set up Departments. Departments are used to route tickets to the right people. They ensure that inquiries are directed to the correct team (such as IT or SysAdmins) rather than cluttering a single inbox. 
+ 1. Go to Agents → Departments</b>
+ 2. Click <b>Add New Department</b>
+ 3. Enter <b>SysAdmins</b>
+ 4. Click <b>Create Department</b>
 
+ <h2> 4. Configure Teams</h2>
+ 
 
