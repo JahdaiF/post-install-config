@@ -63,5 +63,8 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  4. Click <b>Create Department</b> <br>
 
  <h2> 4. Configure Teams</h2>
- 
-
+ While <b>Departments categorize Agents by their primary job fuction, <b>Teams allow you to group Agents from various departments to collaborate on specific tasks or projects</b></b> <br>
+ 1. Go to Agents → Teams</b> <br>
+ 2. Click <b>Add New Team</b> <br>
+ 3. Enter <b>Online Banking</b> <br>
+ 4. Click <b>Create Team</b> <br>
