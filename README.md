@@ -39,7 +39,7 @@ Login Credentials:
 <img width="1548" height="942" alt="Screenshot (1375)" src="https://github.com/user-attachments/assets/114affc8-1ccf-4ce7-a5af-dae7f22a9ad7" />
 
 <b> Admin Panel vs. Agent Panel </b> <br>
-Once logged in, notice the tab in the top-right corner. Understanding the difference between the Admin Panel and Agent Panel is essential:
+Once logged in, notice the tab in the top-right corner. Understanding the difference between the <b>Admin Panel</b> and Agent Panel is essential:
 
 -Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
 -Agent Panel: This is the where tickets and users are managed.
@@ -67,7 +67,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  1. Go to <b>Agents → Teams</b> <br>
  2. Click <b>Add New Team</b> <br>
  3. Enter <b>Online Banking</b> <br>
- 4. Click <b>Create Team</b> <br>
+ 4. Click <b>Create Team</b> <br>  <b></b>
 
  <h2> 5. User Registration Settings</h2>
  To ensure the help desk is accessible to all users without barriers, we will configure the settings to allow guest ticket creation. This ensures that a user does not need a pre-existing account or login to request assistance. <br>
@@ -81,6 +81,8 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  1. Go to <b>Agents → Add New Agent</b>
  2. <b>Agent 1:</b>Create<b>Jane</b>(Set Department to <b>SysAdmins)</b>
  3. <b>Agent 2:</b>Create<b>John</b>(Set Department to <b>Support)</b> <br>
+
+ 
 
 
 
