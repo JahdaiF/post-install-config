@@ -38,7 +38,7 @@ Login Credentials:
 - <b>Password:<b/> Password1
 <img width="1548" height="942" alt="Screenshot (1375)" src="https://github.com/user-attachments/assets/114affc8-1ccf-4ce7-a5af-dae7f22a9ad7" />
 
-<h2> Admin Panel vs. Agent Panel </h2> <br>
+<h2> Admin Panel vs. Agent Panel </h2>
 Once logged in, notice the tab in the top-right corner. Understanding the difference between the Admin Panel and Agent Panel is essential: <br>
 
 -Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
