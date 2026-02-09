@@ -39,10 +39,11 @@ Login Credentials:
 <img width="1548" height="942" alt="Screenshot (1375)" src="https://github.com/user-attachments/assets/114affc8-1ccf-4ce7-a5af-dae7f22a9ad7" />
 
 <h2> Admin Panel vs. Agent Panel </h2>
-Once logged in, notice the tab in the top-right corner. Understanding the difference between the Admin Panel and Agent Panel is essential: <br>
+Once logged in, notice the tab in the top-right corner. Understanding the difference between the Admin Panel and Agent Panel is essential:<br>
 
--Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
--Agent Panel: This is the where tickets and users are managed.
+
+- Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
+- Agent Panel: This is the where tickets and users are managed.
 
 <img width="1555" height="938" alt="Screenshot (1361)" src="https://github.com/user-attachments/assets/288c6430-c9ca-43bb-931e-04a2102bfa77" />
 <img width="1559" height="948" alt="Screenshot (1362)" src="https://github.com/user-attachments/assets/46549685-a69f-46ec-a9d8-1c1e5f045368" />
