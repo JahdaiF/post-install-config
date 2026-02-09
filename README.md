@@ -33,8 +33,8 @@ The following URLs are used to access the osTicket environment:
 To begin the configuration, you must first login. <br>
 
 Login Credentials:
-- <b>URL:<b/> http://localhost/osTicket/scp
-- <b>Username:<b/> adminuser
+- <b>URL:<b/> http://localhost/osTicket/scp</b>
+- <b>Username:<b/> adminuser</b>
 - <b>Password:<b/> Password1
 <img width="1548" height="942" alt="Screenshot (1375)" src="https://github.com/user-attachments/assets/114affc8-1ccf-4ce7-a5af-dae7f22a9ad7" />
 
