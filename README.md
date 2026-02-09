@@ -57,14 +57,30 @@ Now that you are in the <b>Admin Panel</b>, we will create a Role to define spec
 
  <h2> 3. Configure Departments</h2>
 Next we will set up Departments. Departments are used to route tickets to the right people. They ensure that inquiries are directed to the correct team (such as IT or SysAdmins) rather than cluttering a single inbox. <br>
- 1. Go to Agents → Departments</b> <br>
+ 1. Go to <b>Agents → Departments</b> <br>
  2. Click <b>Add New Department</b> <br>
  3. Enter <b>SysAdmins</b> <br>
  4. Click <b>Create Department</b> <br>
 
  <h2> 4. Configure Teams</h2>
  While <b>Departments categorize Agents by their primary job fuction, <b>Teams allow you to group Agents from various departments to collaborate on specific tasks or projects</b></b> <br>
- 1. Go to Agents → Teams</b> <br>
+ 1. Go to <b>Agents → Teams</b> <br>
  2. Click <b>Add New Team</b> <br>
  3. Enter <b>Online Banking</b> <br>
  4. Click <b>Create Team</b> <br>
+
+ <h2> 5. User Registration Settings</h2>
+ To ensure the help desk is accessible to all users without barriers, we will configure the settings to allow guest ticket creation. This ensures that a user does not need a pre-existing account or login to request assistance. <br>
+ 1. Go to <b>Admin Panel → Settings → Users</b> <br>
+ 2. Locate the setting <b>"Registration Required"<b> <br>
+ 3. Uncheck the box that says <b>Require registration and login to create tickets</b> <br>
+ 4. Click <b>Save Changes</b> at the bottom of the page <br>
+
+ <h2> 6. Configure Agents (Staff)</h2>
+ Now we will add the staff members who will be processing the tickets. <br>
+ 1. Go to <b>Agents → Add New Agent</b>
+ 2. <b>Agent 1:</b>Create<b>Jane</b>(Set Department to <b>SysAdmins)</b>
+ 3. <b>Agent 2:</b>Create<b>John</b>(Set Department to <b>Support)</b>
+ 
+ 
+ 
