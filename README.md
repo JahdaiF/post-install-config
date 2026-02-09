@@ -49,7 +49,7 @@ Once logged in, notice the tab in the top-right corner. Understanding the differ
 <img width="1559" height="948" alt="Screenshot (1362)" src="https://github.com/user-attachments/assets/46549685-a69f-46ec-a9d8-1c1e5f045368" />
 
 <h2> 2. Configure Roles</h2>
-Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff. Roles are used to manage staff authorizations. They establish a specific set of access rights which are granted to Agents based on their responsibilities <br>
+Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff. Roles are used to manage staff authorizations. They establish a specific set of access rights which are granted to Agents based on their responsibilities. <br>
 
  1. Go to <b>Agents</b> &#8594; <b>Roles</b> <br>
  2. Click <b>Add New Roles</b> <br>
