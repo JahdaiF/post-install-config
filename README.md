@@ -22,9 +22,9 @@ The focus of this section is on defining user roles, establishing departments, a
 <h2>System Access & Portals</h2>
 The following URLs are used to access the osTicket environment:
 
-- <b>Staff Control Panel<b/>: http://localhost/osTicket/scp
+- <b>Staff Control Panel</b>: http://localhost/osTicket/scp
   This is used by Agents and Admins to manage, assign, and resolve tickets
-- <b>End-User Help Center<b/>: http://localhost/osTicket/
+- <b>End-User Help Center</b>: http://localhost/osTicket/
   The public-facing portal where clients submit tickets and check status
 
 <h2>Post-Installation Configuration</h2>
@@ -33,9 +33,9 @@ The following URLs are used to access the osTicket environment:
 To begin the configuration, you must first login. <br>
 
 Login Credentials:
-- <b>URL:<b/> http://localhost/osTicket/scp
-- <b>Username:<b/> adminuser
-- <b>Password:<b/> Password1
+- <b>URL:</b> http://localhost/osTicket/scp
+- <b>Username:</b> adminuser
+- <b>Password:</b> Password1
 <img width="1548" height="942" alt="Screenshot (1375)" src="https://github.com/user-attachments/assets/114affc8-1ccf-4ce7-a5af-dae7f22a9ad7" />
 
 <h2> Admin Panel vs. Agent Panel </h2>
@@ -49,10 +49,6 @@ Once logged in, notice the tab in the top-right corner. Understanding the differ
 <img width="1559" height="948" alt="Screenshot (1362)" src="https://github.com/user-attachments/assets/46549685-a69f-46ec-a9d8-1c1e5f045368" />
 
 <h2> 2. Configure Roles</h2>
-Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff. Roles are used to manage staff authorizations. They establish a specific set of access rights which are granted to Agents based on their responsibilities. 
-
-
-
 Now that you are in the <b>Admin Panel</b>, we will create a Role to define specific permissions for your staff. Roles are used to manage staff authorizations. They establish a specific set of access rights which are granted to Agents based on their responsibilities. <br>
 
  1. Go to <b>Agents</b> &#8594; <b>Roles</b> <br>
@@ -69,7 +65,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  4. Click <b>Create Department</b> <br>
 
  <h2> 4. Configure Teams</h2>
- While <b>Departments categorize Agents by their primary job fuction, <b>Teams allow you to group Agents from various departments to collaborate on specific tasks or projects</b></b> <br>
+ While <b>Departments</b>categorize Agents by their primary job fuction, <b>Teams</b>allow you to group Agents from various departments to collaborate on specific tasks or projects <br>
  1. Go to <b>Agents → Teams</b> <br>
  2. Click <b>Add New Team</b> <br>
  3. Enter <b>Online Banking</b> <br>
@@ -78,13 +74,13 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  <h2> 5. User Registration Settings</h2>
  To ensure the help desk is accessible to all users without barriers, we will configure the settings to allow guest ticket creation. This ensures that a user does not need a pre-existing account or login to request assistance. <br>
  1. Go to <b>Admin Panel → Settings → Users</b> <br>
- 2. Locate the setting <b>"Registration Required"<b> <br>
+ 2. Locate the setting <b>"Registration Required"</b> <br>
  3. Uncheck the box that says <b>Require registration and login to create tickets</b> <br>
  4. Click <b>Save Changes</b> at the bottom of the page <br>
 
  <h2> 6. Configure Agents (Staff)</h2>
  Now we will add the staff members who will be processing the tickets. <br>
- 1. Go to <b>Agents → Add New Agent</b>
+ 1. Go to <b>Agents → Add New Agent</b> <br>
  2. <b>Agent 1:</b>Create<b>Jane</b>(Set Department to <b>SysAdmins)</b>
  3. <b>Agent 2:</b>Create<b>John</b>(Set Department to <b>Support)</b> <br>
 
