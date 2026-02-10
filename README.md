@@ -22,10 +22,10 @@ The focus of this section is on defining user roles, establishing departments, a
 <h2>System Access & Portals</h2>
 The following URLs are used to access the osTicket environment:
 
-- <b>Staff Control Panel</b>: http://localhost/osTicket/scp
-  This is used by Agents and Admins to manage, assign, and resolve tickets
-- <b>End-User Help Center</b>: http://localhost/osTicket/
-  The public-facing portal where clients submit tickets and check status
+- <b>Staff Control Panel</b>: http://localhost/osTicket/scp <br>
+  This is used by Agents and Admins to manage, assign, and resolve tickets.
+- <b>End-User Help Center</b>: http://localhost/osTicket/ <br>
+  The public-facing portal where clients submit tickets and check status.
 
 <h2>Post-Installation Configuration</h2>
 
@@ -42,8 +42,8 @@ Login Credentials:
 Once logged in, notice the tab in the top-right corner. Understanding the difference between the Admin Panel and Agent Panel is essential:<br>
 
 
-- Admin Panel: This is used to set up Departments, Roles, and System Settings <br>
-- Agent Panel: This is the where tickets and users are managed
+- Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
+- Agent Panel: This is the where tickets and users are managed.
 
 <img width="1555" height="938" alt="Screenshot (1361)" src="https://github.com/user-attachments/assets/288c6430-c9ca-43bb-931e-04a2102bfa77" />
 <img width="1559" height="948" alt="Screenshot (1362)" src="https://github.com/user-attachments/assets/46549685-a69f-46ec-a9d8-1c1e5f045368" />
@@ -65,7 +65,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  4. Click <b>Create Department</b> <br>
 
  <h2> 4. Configure Teams</h2>
- While <b>Departments</b>categorize Agents by their primary job fuction, <b>Teams</b>allow you to group Agents from various departments to collaborate on specific tasks or projects <br>
+ While <b>Departments</b> categorize Agents by their primary job fuction, <b>Teams</b> allow you to group Agents from various departments to collaborate on specific tasks or projects <br>
  1. Go to <b>Agents → Teams</b> <br>
  2. Click <b>Add New Team</b> <br>
  3. Enter <b>Online Banking</b> <br>
