@@ -99,6 +99,11 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - <b>Sev-A:</b> Grace Period: 1 hour, Schedule: 24/7. <br>
   - <b>Sev-B:</b> Grace Period: 4 hours, Schedule: 24/7. <br>
   - <b>Sev-C:</b> Grace Period: 8 hours, Schedule: Business Hours. <br>
+
+  <h2> 9. Configure Help Topics</h2>
+  Last step will be to configure Help Topics. Help Topics provide a streamlined way for users to categorize their requests. By selecting a topic, the system can automatically route the ticket to the correct department and assign the appropriate priority level. <br>
+ 1. Go to <b>Admin Panel</b> → <b>Manage</b> → <b>Help Topics</b> <br>
+ 2. 
  
 
 
