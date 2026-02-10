@@ -84,6 +84,20 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  2. <b>Agent 1: </b>Create<b> Jane</b> (Set Department to <b>SysAdmins)</b> <br>
  3. <b>Agent 2: </b>Create<b> John</b> (Set Department to <b>Support)</b> <br>
 
+ <h2> 7. Configure Users (Customers)</h2>
+ Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>  <br>
+ 1. Switch to <b>Agent Panel</b> on the top right link <br>
+ 2. Go to <b>Users</b> → <b>Add New User </b> <br>
+ 3. <b>User 1:</b> Create <b>Karen</b> <br>
+ 4. <b>User 2:</b> Create <b>Ken</b> <br>
+
+ <h2> 8. Configure SLA (Service Level Agreements</h2>
+ Now we will configure SLAs. SLAs define how quickly your team must respond to tickets based on their severity. <br>
+ 1. Go to <b>Admin Panel</b> → <b>Manage</b> → <b>SLA</b> <br>
+ 2. Add new SLA:
+  -<b>Sev-A:</b> Grace Period: 1 hour, Schedule: 24/7.
+  -<b>Sev-B:</b> Grace Period: 4 hours, Schedule: 24/7.
+  -<b>Sev-C:</b> Grace Period: 8 hours, Schedule: Business Hours.
  
 
 
