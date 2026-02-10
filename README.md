@@ -95,9 +95,9 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  Now we will configure SLAs. SLAs define how quickly your team must respond to tickets based on their severity. <br>
  1. Go to <b>Admin Panel</b> → <b>Manage</b> → <b>SLA</b> <br>
  2. Add new SLA: <br>
-  -<b>Sev-A:</b> Grace Period: 1 hour, Schedule: 24/7. <br>
-  -<b>Sev-B:</b> Grace Period: 4 hours, Schedule: 24/7. <br>
-  -<b>Sev-C:</b> Grace Period: 8 hours, Schedule: Business Hours. <br>
+  - <b>Sev-A:</b> Grace Period: 1 hour, Schedule: 24/7. <br>
+  - <b>Sev-B:</b> Grace Period: 4 hours, Schedule: 24/7. <br>
+  - <b>Sev-C:</b> Grace Period: 8 hours, Schedule: Business Hours. <br>
  
 
 
