@@ -103,16 +103,15 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   <h2> 9. Configure Help Topics</h2>
   Last step will be to configure Help Topics. Help Topics provide a streamlined way for users to categorize their requests. By selecting a topic, the system can automatically route the ticket to the correct department and assign the appropriate priority level. <br>
  1. Go to <b>Admin Panel</b> → <b>Manage</b> → <b>Help Topics</b> <br>
- 2. Click <b>Add New Help Topic</b>.
- 3. Add the following topics one by one:
+ 2. Click <b>Add New Help Topic</b>. <br>
+ 3. Add the following topics one by one: <br>
 
   - <b>Business Critical Outage</b>
   - <b>Personal Computer Issues</b>
   - <b>Equipment Request</b>
   - <b>Password Reset</b>
   - <b>Other</b>
-
-  4. click <b>Click Add Topic</b> fo reach entry
+ 4. click <b>Click Add Topic</b> fo reach entry
  
 
 
