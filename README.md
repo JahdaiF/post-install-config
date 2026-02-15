@@ -89,7 +89,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Password: <b>Password1</b>
   B. <b>Access</b>
   - Department: <b>SysAdmin</b>
-  - Role: <b>Supreme Admin</b>
+  - Role: <b>Supreme Admin</b> <br>
   C. <b>Teams:</b>
   - Assigned Teams: <b>Online Banking</b>
   
@@ -98,7 +98,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   A. <b>Account:</b>
   - Email: <b>johnfake@gmail.com</b>
   - Username: <b>John</b>
-  - Password: <b>Password1</b>
+  - Password: <b>Password1</b> <br>
   B. <b>Access:</b>
   - Department: <b>Support</b>
   - Role: <b>View only</b>
