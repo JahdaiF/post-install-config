@@ -94,6 +94,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Assigned Teams: <b>Online Banking</b>
   
  3. <b>Agent 2: </b>Create<b> John Doe</b> <br>
+ 
   A. <b>Account:</b>
   - Email: <b>johnfake@gmail.com</b>
   - Username: <b>John</b>
