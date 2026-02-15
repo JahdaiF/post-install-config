@@ -87,21 +87,26 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Name: <b>Jane Doe</b>
   - Email: <b>janefake@gmail.com</b> 
   - Username: <b>Jane</b> 
-  - Password: <b>Password1</b> 
- <b>Access:</b> 
+  - Password: <b>Password1</b>  <br>
+  
+ <b>Access:</b>
  
   - Department: <b>SysAdmin</b> 
-  - Role: <b>Supreme Admin</b> 
+  - Role: <b>Supreme Admin</b>
+    
  <b>Teams:</b> 
  
-  - Assigned Teams: <b>Online Banking</b> 
+  - Assigned Teams: <b>Online Banking</b>
+    
    3. <b> Create Agent 2: <br>
+   
  <b>Account:</b> 
  
   - Name: <b>John Doe</b>
   - Email: <b>johnfake@gmail.com</b> 
   - Username: <b>John</b> 
-  - Password: <b>Password1</b> 
+  - Password: <b>Password1</b>
+    
  <b>Access:</b> 
  
   - Department: <b>Support</b> 
