@@ -110,7 +110,30 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  
   - Department: <b>Support</b> 
   - Role: <b>View only</b> 
-    
+
+# test
+1. Go to **Agents → Add New Agent**
+2. **Create Agent 1**
+    * **Account:**
+        * Name: **Jane Doe**
+        * Email: **janefake@gmail.com**
+        * Username: **Jane**
+        * Password: **Password1**
+    * **Access:**
+        * Department: **SysAdmin**
+        * Role: **Supreme Admin**
+    * **Teams:**
+        * Assigned Teams: **Online Banking**
+
+3. **Create Agent 2**
+    * **Account:**
+        * Name: **John Doe**
+        * Email: **johnfake@gmail.com**
+        * Username: **John**
+        * Password: **Password1**
+    * **Access:**
+        * Department: **Support**
+        * Role: **View only**
 
  <h2> 7. Configure Users (Customers)</h2>
  Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>  <br>
