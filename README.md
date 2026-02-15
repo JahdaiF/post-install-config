@@ -80,18 +80,18 @@ Next we will set up Departments. Departments are used to route tickets to the ri
 
  <h2> 6. Configure Agents (Staff)</h2>
  Now we will add the staff members who will be processing the tickets. <br>
- 1. Go to <b>Agents → Add New Agent</b> <br>
- 2. <b>Agent 1: </b>Create<b> Jane Doe</b> <br>
+ <b>1.</b> Go to <b>Agents → Add New Agent</b> <br>
+ <b>2.</b> <b>Agent 1: </b>Create<b> Jane Doe</b> <br>
   <b>Account:</b> <br>
   - Email: <b>janefake@gmail.com</b> <br>
   - Username: <b>Jane</b> <br>
   - Password: <b>Password1</b> <br>
- <b>Access</b> <br>
+ <b>Access:</b> <br>
   - Department: <b>SysAdmin</b> <br>
   - Role: <b>Supreme Admin</b> <br>
  <b>Teams:</b> <br>
   - Assigned Teams: <b>Online Banking</b> <br>
- 3. <b>Agent 2: </b>Create<b> John Doe</b> <br>
+ <b>3.</b> <b>Agent 2: </b>Create<b> John Doe</b> <br>
  <b>Account:</b> <br>
   - Email: <b>johnfake@gmail.com</b> <br>
   - Username: <b>John</b> <br>
