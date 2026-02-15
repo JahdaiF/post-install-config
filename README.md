@@ -80,6 +80,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
 
  <h2> 6. Configure Agents (Staff)</h2>
  Now we will add the staff members who will be processing the tickets. <br>
+ 
 1. Go to **Agents → Add New Agent**
 2. **Create Agent 1**
     * **Account:**
