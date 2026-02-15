@@ -81,8 +81,26 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  <h2> 6. Configure Agents (Staff)</h2>
  Now we will add the staff members who will be processing the tickets. <br>
  1. Go to <b>Agents → Add New Agent</b> <br>
- 2. <b>Agent 1: </b>Create<b> Jane</b> (Set Department to <b>SysAdmins)</b> <br>
- 3. <b>Agent 2: </b>Create<b> John</b> (Set Department to <b>Support)</b> <br>
+ 2. <b>Agent 1: </b>Create<b> Jane Doe</b> <br>
+  A. <b>Account</b>
+  - Email: <b>janefake@gmail.com</b>
+  - Username: <b>Jane</b>
+  - Password: <b>Password1</b>
+  B. <b>Access</b>
+  - Department: <b>SysAdmin</b>
+  - Role: <b>Supreme Admin</b>
+  C. <b>Teams</b>
+  - Assigned Teams: <b>Online Banking</b>
+  
+ 3. <b>Agent 2: </b>Create<b> John Doe</b> <br>
+  A. <b>Account</b>
+  - Email: <b>johnfake@gmail.com</b>
+  - Username: <b>John</b>
+  - Password: <b>Password1</b>
+  B. <b>Access</b>
+  - Department: <b>Support</b>
+  - Role: <b>View only</b>
+    
 
  <h2> 7. Configure Users (Customers)</h2>
  Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>  <br>
@@ -111,7 +129,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - <b>Equipment Request</b>
   - <b>Password Reset</b>
   - <b>Other</b>
- 4. click <b>Click Add Topic</b> fo reach entry
+ 4. click <b>Click Add Topic</b> for reach entry
  
 
 
