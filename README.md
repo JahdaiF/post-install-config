@@ -83,23 +83,23 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  1. Go to <b>Agents → Add New Agent</b> <br>
  2. <b>Agent 1: </b>Create<b> Jane Doe</b> <br>
  
-  A. <b>Account:</b> <br>
+  <b>Account:</b> <br>
   - Email: <b>janefake@gmail.com</b>
   - Username: <b>Jane</b>
   - Password: <b>Password1</b>
-  B. <b>Access</b>
+ <b>Access</b>
   - Department: <b>SysAdmin</b>
   - Role: <b>Supreme Admin</b> <br>
-  C. <b>Teams:</b>
+ <b>Teams:</b>
   - Assigned Teams: <b>Online Banking</b>
   
  3. <b>Agent 2: </b>Create<b> John Doe</b> <br>
  
-  A. <b>Account:</b>
+ <b>Account:</b>
   - Email: <b>johnfake@gmail.com</b>
   - Username: <b>John</b>
   - Password: <b>Password1</b> <br>
-  B. <b>Access:</b>
+ <b>Access:</b>
   - Department: <b>Support</b>
   - Role: <b>View only</b>
     
