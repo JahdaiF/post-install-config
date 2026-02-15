@@ -91,7 +91,6 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Role: <b>Supreme Admin</b> <br>
  <b>Teams:</b> <br>
   - Assigned Teams: <b>Online Banking</b> <br>
-  
  3. <b>Agent 2: </b>Create<b> John Doe</b> <br>
  <b>Account:</b> <br>
   - Email: <b>johnfake@gmail.com</b> <br>
