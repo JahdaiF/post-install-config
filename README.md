@@ -85,27 +85,27 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   <b>Account:</b> <br>
   
   - Name: <b>Jane Doe</b>
-  - Email: <b>janefake@gmail.com</b> <br>
-  - Username: <b>Jane</b> <br>
-  - Password: <b>Password1</b> <br>
+  - Email: <b>janefake@gmail.com</b> 
+  - Username: <b>Jane</b> 
+  - Password: <b>Password1</b> 
  <b>Access:</b> <br>
  
-  - Department: <b>SysAdmin</b> <br>
-  - Role: <b>Supreme Admin</b> <br>
+  - Department: <b>SysAdmin</b> 
+  - Role: <b>Supreme Admin</b> 
  <b>Teams:</b> <br>
  
-  - Assigned Teams: <b>Online Banking</b> <br>
+  - Assigned Teams: <b>Online Banking</b> 
    3. <b> Create Agent 2: <br>
  <b>Account:</b> <br>
  
   - Name: <b>John Doe</b>
-  - Email: <b>johnfake@gmail.com</b> <br>
-  - Username: <b>John</b> <br>
-  - Password: <b>Password1</b> <br>
+  - Email: <b>johnfake@gmail.com</b> 
+  - Username: <b>John</b> 
+  - Password: <b>Password1</b> 
  <b>Access:</b> <br>
  
-  - Department: <b>Support</b> <br>
-  - Role: <b>View only</b> <br>
+  - Department: <b>Support</b> 
+  - Role: <b>View only</b> 
     
 
  <h2> 7. Configure Users (Customers)</h2>
