@@ -90,7 +90,6 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Password: <b>Password1</b>  <br>
   
  <b>Access:</b>
- 
   - Department: <b>SysAdmin</b> 
   - Role: <b>Supreme Admin</b>
     
