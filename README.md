@@ -82,7 +82,6 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  Now we will add the staff members who will be processing the tickets. <br>
  1. Go to <b>Agents → Add New Agent</b> <br>
  2. <b>Agent 1: </b>Create<b> Jane Doe</b> <br>
- 
   <b>Account:</b> <br>
   - Email: <b>janefake@gmail.com</b>
   - Username: <b>Jane</b>
@@ -94,7 +93,6 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Assigned Teams: <b>Online Banking</b>
   
  3. <b>Agent 2: </b>Create<b> John Doe</b> <br>
- 
  <b>Account:</b>
   - Email: <b>johnfake@gmail.com</b>
   - Username: <b>John</b>
