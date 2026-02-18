@@ -57,6 +57,17 @@ Now that you are in the <b>Admin Panel</b>, we will create a Role to define spec
  4. Navigate through the tabs (Tickets, Tasks, Acknowledgements) and check the boxes to grant full authority <br>
  5. Click <b>Add Role</b> <br>
 
+<img width="1557" height="967" alt="Screenshot (1390)" src="https://github.com/user-attachments/assets/d40e3ba5-e744-432d-b17d-1e20e2b15a84" />
+<img width="1557" height="971" alt="Screenshot (1391)" src="https://github.com/user-attachments/assets/0c33002d-63f3-43c7-8d5a-8da6f7a2fc20" />
+<img width="1550" height="969" alt="Screenshot (1392)" src="https://github.com/user-attachments/assets/a1492213-989c-4350-89bf-dfba94ab220d" />
+<img width="1560" height="969" alt="Screenshot (1393)" src="https://github.com/user-attachments/assets/845d10af-3880-48af-9c1a-9cb850dda040" />
+<img width="1553" height="974" alt="Screenshot (1394)" src="https://github.com/user-attachments/assets/7179d99c-f71e-428e-90d7-5631928ab68d" />
+<img width="1560" height="968" alt="Screenshot (1395)" src="https://github.com/user-attachments/assets/1fa659ee-00b8-4c10-9dbe-3b65ef0c2414" />
+<img width="1552" height="974" alt="Screenshot (1396)" src="https://github.com/user-attachments/assets/38bf0470-8bef-4824-9a0d-9dc040b84417" />
+<img width="1558" height="974" alt="Screenshot (1397)" src="https://github.com/user-attachments/assets/58132489-4aec-41fb-aebd-07a0f6aec39b" />
+<img width="1547" height="979" alt="Screenshot (1398)" src="https://github.com/user-attachments/assets/24f27fd0-d8e6-4384-aedc-f77e2b3990b1" />
+
+
  <h2> 3. Configure Departments</h2>
 Next we will set up Departments. Departments are used to route tickets to the right people. They ensure that inquiries are directed to the correct team (such as IT or SysAdmins) rather than cluttering a single inbox. <br>
  1. Go to <b>Agents → Departments</b> <br> 
