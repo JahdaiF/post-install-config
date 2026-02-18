@@ -116,6 +116,13 @@ Next we will set up Departments. Departments are used to route tickets to the ri
         * Role: **Supreme Admin**
     * **Teams:**
         * Assigned Teams: **Online Banking**
+    
+<img width="1557" height="1135" alt="Screenshot (1410)" src="https://github.com/user-attachments/assets/cf592144-998d-4714-899c-db265e931384" />
+<img width="1551" height="1134" alt="Screenshot (1411)" src="https://github.com/user-attachments/assets/82302fd2-4f9c-4afc-8c98-e1cfbc331806" />
+<img width="1563" height="1152" alt="Screenshot (1413)" src="https://github.com/user-attachments/assets/da1ed4bb-ab9d-46d0-8033-eefe434f241f" />
+<img width="1556" height="1136" alt="Screenshot (1414)" src="https://github.com/user-attachments/assets/bf138385-511d-494b-90c1-f7a74c62ca96" />
+<img width="1557" height="1139" alt="Screenshot (1415)" src="https://github.com/user-attachments/assets/0ac86d16-f53f-4464-98ac-eeab7f8073e9" />
+<img width="1543" height="1129" alt="Screenshot (1416)" src="https://github.com/user-attachments/assets/2161bbc9-04a6-4624-a30a-68ef0df7cbd4" />
 
 3. **Create Agent 2**
     * **Account:**
@@ -126,6 +133,10 @@ Next we will set up Departments. Departments are used to route tickets to the ri
     * **Access:**
         * Department: **Support**
         * Role: **View only**
+    
+<img width="1555" height="1142" alt="Screenshot (1418)" src="https://github.com/user-attachments/assets/49c2eaf0-10ed-4eba-aba1-349387e66923" />
+<img width="1558" height="1146" alt="Screenshot (1419)" src="https://github.com/user-attachments/assets/649b8037-4c64-48c7-816a-d228fe494e96" />
+<img width="1556" height="1135" alt="Screenshot (1420)" src="https://github.com/user-attachments/assets/6978ffaa-9446-4426-9c43-0aefd78018de" />
 
  <h2> 7. Configure Users (Customers)</h2>
  Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>  <br>
