@@ -57,7 +57,7 @@ Now that you are in the <b>Admin Panel</b>, we will create a Role to define spec
  4. Navigate through the tabs (Tickets, Tasks, Acknowledgements) and check the boxes to grant full authority <br>
  5. Click <b>Add Role</b> <br>
 
-<img width="1557" height="967" alt="Screenshot (1390)" src="https://github.com/user-attachments/assets/d40e3ba5-e744-432d-b17d-1e20e2b15a84" />
+<img width="1557" height="967" alt="Screenshot (1390)" src="https://github.com/user-attachments/assets/dc587f27-d19d-45e6-aaa6-ac604f2acc89" />
 <img width="1557" height="971" alt="Screenshot (1391)" src="https://github.com/user-attachments/assets/0c33002d-63f3-43c7-8d5a-8da6f7a2fc20" />
 <img width="1550" height="969" alt="Screenshot (1392)" src="https://github.com/user-attachments/assets/a1492213-989c-4350-89bf-dfba94ab220d" />
 <img width="1560" height="969" alt="Screenshot (1393)" src="https://github.com/user-attachments/assets/845d10af-3880-48af-9c1a-9cb850dda040" />
