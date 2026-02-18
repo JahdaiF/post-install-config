@@ -89,7 +89,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
 
 <img width="1557" height="1140" alt="Screenshot (1403)" src="https://github.com/user-attachments/assets/222c6b1a-e320-4f59-adcc-0b88550200f6" />
 <img width="1552" height="1136" alt="Screenshot (1404)" src="https://github.com/user-attachments/assets/6597fa89-6d77-4792-a871-0c9daa67de7b" />
-<img width="1558" height="1126" alt="Screenshot (1405)" src="https://github.com/user-attachments/assets/8010cade-23dd-4ac4-ab8a-0af3d371ca28" />
+<img width="1558" height="1126" alt="Screenshot (1405)" src="https://github.com/user-attachments/assets/66739919-46fd-40d2-9452-650a7b2e8a15" />
 
  <h2> 5. User Registration Settings</h2>
  To ensure the help desk is accessible to all users without barriers, we will configure the settings to allow guest ticket creation. This ensures that a user does not need a pre-existing account or login to request assistance. <br>
