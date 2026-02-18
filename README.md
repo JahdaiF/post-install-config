@@ -98,6 +98,9 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  3. Uncheck the box that says <b>Require registration and login to create tickets</b> <br>
  4. Click <b>Save Changes</b> at the bottom of the page <br>
 
+<img width="1550" height="1136" alt="Screenshot (1407)" src="https://github.com/user-attachments/assets/6b2f60db-0555-48a8-a1d0-2100fccb290c" />
+<img width="1555" height="1136" alt="Screenshot (1409)" src="https://github.com/user-attachments/assets/0b192fd8-4069-40fd-b114-e3354d3059c7" />
+
  <h2> 6. Configure Agents (Staff)</h2>
  Now we will add the staff members who will be processing the tickets. <br>
  
