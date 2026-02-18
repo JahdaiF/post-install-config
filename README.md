@@ -119,7 +119,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
 
 3. **Create Agent 2**
     * **Account:**
-        * Name: **John Doe**
+          * Name: **John Doe**
         * Email: **johnfake@gmail.com**
         * Username: **John**
         * Password: **Password1**
