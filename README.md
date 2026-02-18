@@ -72,8 +72,13 @@ Now that you are in the <b>Admin Panel</b>, we will create a Role to define spec
 Next we will set up Departments. Departments are used to route tickets to the right people. They ensure that inquiries are directed to the correct team (such as IT or SysAdmins) rather than cluttering a single inbox. <br>
  1. Go to <b>Agents → Departments</b> <br> 
  2. Click <b>Add New Department</b> <br>
- 3. Enter <b>SysAdmins</b> <br>
+ 3. Enter Parent: <b>Top Level Department</b> Name: <b>SysAdmins</b> <br>
  4. Click <b>Create Department</b> <br>
+
+<img width="1558" height="976" alt="Screenshot (1399)" src="https://github.com/user-attachments/assets/3eaa0934-5249-44c0-98b3-c3e2bd01f357" />
+<img width="1549" height="972" alt="Screenshot (1400)" src="https://github.com/user-attachments/assets/6f566bb8-e937-4043-8b22-85619eff54f8" />
+<img width="1555" height="1138" alt="Screenshot (1401)" src="https://github.com/user-attachments/assets/96c61f6f-30d2-40a8-8932-65bed8a272d4" />
+<img width="1547" height="1136" alt="Screenshot (1402)" src="https://github.com/user-attachments/assets/8ce3316b-0525-4a61-bda0-7fb135c4b3aa" />
 
  <h2> 4. Configure Teams</h2>
  While <b>Departments</b> categorize Agents by their primary job fuction, <b>Teams</b> allow you to group Agents from various departments to collaborate on specific tasks or projects <br>
