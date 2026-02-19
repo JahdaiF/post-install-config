@@ -187,13 +187,19 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  2. Click <b>Add New Help Topic</b>. <br>
  3. Add the following topics one by one: <br>
 
-  - <b>Business Critical Outage</b>
-  - <b>Personal Computer Issues</b>
-  - <b>Equipment Request</b>
-  - <b>Password Reset</b>
-  - <b>Other</b>
+  - Topic: <b>Business Critical Outage Parent</b> Parent Topic: <b>Report a Problem</b>
+  - Topic: <b>Personal Computer Issues</b> Parent Topic: <b>Report a Problem</b>
+  - Topic: <b>Equipment Request</b> Parent Topic: <b>General Inquiry</b>
+  - Topic: <b>Password Reset</b> Parent Topic: <b>Report a Problem</b>
+  - Topic: <b>Other</b> Parent Topic: <b>General Inquiry</b>
  4. click <b>Click Add Topic</b> for reach entry
  
+<img width="1550" height="1138" alt="Screenshot (1445)" src="https://github.com/user-attachments/assets/f3689ae2-4922-40f2-bef8-4a2c3e14419a" />
+<img width="1554" height="1130" alt="Screenshot (1446)" src="https://github.com/user-attachments/assets/f214e73e-cf6c-4525-a54c-9943564022df" />
+<img width="1562" height="1142" alt="Screenshot (1447)" src="https://github.com/user-attachments/assets/4bc8d26d-8c47-4586-93ee-80e26ebd36a8" />
+<img width="1560" height="1140" alt="Screenshot (1448)" src="https://github.com/user-attachments/assets/7b083305-a2f1-48f2-bdc1-fdd63c0be0f1" />
+<img width="1555" height="1126" alt="Screenshot (1449)" src="https://github.com/user-attachments/assets/a95dafc4-f340-4248-aa20-1afcc2fc7633" />
+<img width="1560" height="1125" alt="Screenshot (1450)" src="https://github.com/user-attachments/assets/9391f51a-0b46-457d-9f6c-79281b06d112" />
 
 
 
