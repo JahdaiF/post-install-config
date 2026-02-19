@@ -141,24 +141,22 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  <h2> 7. Configure Users (Customers)</h2>
  Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>  <br>
 1. Switch to **Agent Panel** (top right link)
-
-<img width="1551" height="1146" alt="Screenshot (1426)" src="https://github.com/user-attachments/assets/0cb9e69f-0e31-4664-b5af-7af55c23ee2a" />
 2. Go to **Users → Add New User**
-
-<img width="1553" height="1148" alt="Screenshot (1427)" src="https://github.com/user-attachments/assets/18d73f57-6418-42d8-aa93-82682de4d752" />
 3. **Create User 1**
     * **Account:**
         * Name: **Karen**
         * Email: **Karen@gmail.com**
-        
-<img width="1552" height="1123" alt="Screenshot (1428)" src="https://github.com/user-attachments/assets/64fbc9b0-d0fe-4dd3-98a0-0924eb68714c" />
-<img width="1552" height="1130" alt="Screenshot (1429)" src="https://github.com/user-attachments/assets/3443ef10-efce-4339-ac2f-acc95da95c64" />
-<img width="1554" height="1139" alt="Screenshot (1430)" src="https://github.com/user-attachments/assets/78eec187-f212-44ec-8ee1-f2a0750c5be1" />
 4. **Create User 2**
     * **Account:**
         * Name: **Ken**
         * Email: **Ken@gmail.com**
-        
+     
+   
+<img width="1551" height="1146" alt="Screenshot (1426)" src="https://github.com/user-attachments/assets/0cb9e69f-0e31-4664-b5af-7af55c23ee2a" />   
+<img width="1553" height="1148" alt="Screenshot (1427)" src="https://github.com/user-attachments/assets/18d73f57-6418-42d8-aa93-82682de4d752" />   
+<img width="1552" height="1123" alt="Screenshot (1428)" src="https://github.com/user-attachments/assets/64fbc9b0-d0fe-4dd3-98a0-0924eb68714c" />
+<img width="1552" height="1130" alt="Screenshot (1429)" src="https://github.com/user-attachments/assets/3443ef10-efce-4339-ac2f-acc95da95c64" />
+<img width="1554" height="1139" alt="Screenshot (1430)" src="https://github.com/user-attachments/assets/78eec187-f212-44ec-8ee1-f2a0750c5be1" />
 <img width="1544" height="1128" alt="Screenshot (1431)" src="https://github.com/user-attachments/assets/567e5268-76a7-4bd2-afb6-dbf19f309280" />
 <img width="1548" height="1135" alt="Screenshot (1432)" src="https://github.com/user-attachments/assets/07447929-8f60-4a2d-b502-3aa81c5de3b5" />
 <img width="1549" height="1128" alt="Screenshot (1433)" src="https://github.com/user-attachments/assets/a06f1ac5-4e1b-4f7c-8330-e3c3045f7e66" />
