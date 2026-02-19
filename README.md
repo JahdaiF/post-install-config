@@ -140,6 +140,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
 
  <h2> 7. Configure Users (Customers)</h2>
  Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>  <br>
+ 
 1. Switch to **Agent Panel** (top right link)
 2. Go to **Users → Add New User**
 3. **Create User 1**
