@@ -170,6 +170,16 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - <b>Sev-A:</b> Grace Period: 1 hour, Schedule: 24/7. <br>
   - <b>Sev-B:</b> Grace Period: 4 hours, Schedule: 24/7. <br>
   - <b>Sev-C:</b> Grace Period: 8 hours, Schedule: Business Hours. <br>
+  
+<img width="1547" height="1129" alt="Screenshot (1434)" src="https://github.com/user-attachments/assets/7a3a52f2-b55e-4faa-bdb7-d75529e12d04" />
+<img width="1552" height="1136" alt="Screenshot (1435)" src="https://github.com/user-attachments/assets/67c3fc15-5a79-40f0-bf8e-20de0041ba6b" />
+<img width="1554" height="1134" alt="Screenshot (1436)" src="https://github.com/user-attachments/assets/1b003531-60de-465e-ac5c-073734256a3e" />
+<img width="1553" height="1144" alt="Screenshot (1437)" src="https://github.com/user-attachments/assets/ab0c8ff9-7936-4aa6-a4b0-209725eeab5b" />
+<img width="1553" height="1141" alt="Screenshot (1438)" src="https://github.com/user-attachments/assets/f85343b3-6fbf-4ea0-824f-0bbe3dd0d2c2" />
+<img width="1556" height="1125" alt="Screenshot (1440)" src="https://github.com/user-attachments/assets/05dd3e5f-8ee5-4b4c-99bb-58badd6381af" />
+<img width="1561" height="1131" alt="Screenshot (1441)" src="https://github.com/user-attachments/assets/d52436d3-5110-4042-a242-430bcc1e475b" />
+<img width="1553" height="1133" alt="Screenshot (1442)" src="https://github.com/user-attachments/assets/68ade58e-8bad-4aad-b04d-bea5edabe144" />
+<img width="1550" height="1132" alt="Screenshot (1443)" src="https://github.com/user-attachments/assets/d8a74640-4d1a-4d2b-a957-f9b231753377" />
 
   <h2> 9. Configure Help Topics</h2>
   Last step will be to configure Help Topics. Help Topics provide a streamlined way for users to categorize their requests. By selecting a topic, the system can automatically route the ticket to the correct department and assign the appropriate priority level. <br>
