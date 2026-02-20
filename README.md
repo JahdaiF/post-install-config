@@ -201,8 +201,8 @@ Next we will set up Departments. Departments are used to route tickets to the ri
 <img width="1555" height="1126" alt="Screenshot (1449)" src="https://github.com/user-attachments/assets/a95dafc4-f340-4248-aa20-1afcc2fc7633" />
 <img width="1560" height="1125" alt="Screenshot (1450)" src="https://github.com/user-attachments/assets/9391f51a-0b46-457d-9f6c-79281b06d112" />
 
+<h2>Conclusion</h2>
+ With the core infrastructure, including roles, departments, and routing rules, now established, the system is fully prepared to handle and categorize incoming tickets efficiently. <br>
 
-
- 
- 
+ - [Click here for next step: osTicket: Ticket Lifecycle Examples]([https://github.com/JahdaiF/ticket-lifecycle)]
  
