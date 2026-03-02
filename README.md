@@ -136,7 +136,8 @@ Next we will set up Departments. Departments are used to route tickets to the ri
     
 <img width="1555" height="1142" alt="Screenshot (1418)" src="https://github.com/user-attachments/assets/49c2eaf0-10ed-4eba-aba1-349387e66923" />
 <img width="1558" height="1146" alt="Screenshot (1419)" src="https://github.com/user-attachments/assets/649b8037-4c64-48c7-816a-d228fe494e96" />
-<img width="1556" height="1135" alt="Screenshot (1420)" src="https://github.com/user-attachments/assets/6978ffaa-9446-4426-9c43-0aefd78018de" />
+<img width="1415" height="1169" alt="Screenshot (1014)" src="https://github.com/user-attachments/assets/2decbf88-df09-4ed1-997e-160e85696d4c" />
+
 
  <h2> 7. Configure Users (Customers)</h2>
  Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>  <br>
