@@ -1,4 +1,4 @@
-<img width="1415" height="1169" alt="Screenshot (1014)" src="https://github.com/user-attachments/assets/aa29bee3-3b35-4b77-8835-6dede5cfd526" /><p align="center">
+
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
