@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1415" height="1169" alt="Screenshot (1014)" src="https://github.com/user-attachments/assets/aa29bee3-3b35-4b77-8835-6dede5cfd526" /><p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -136,7 +136,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
     
 <img width="1555" height="1142" alt="Screenshot (1418)" src="https://github.com/user-attachments/assets/49c2eaf0-10ed-4eba-aba1-349387e66923" />
 <img width="1558" height="1146" alt="Screenshot (1419)" src="https://github.com/user-attachments/assets/649b8037-4c64-48c7-816a-d228fe494e96" />
-<img width="1415" height="1169" alt="Screenshot (1014)" src="https://github.com/user-attachments/assets/2decbf88-df09-4ed1-997e-160e85696d4c" />
+<img width="1415" height="1169" alt="Screenshot (1014)" src="https://github.com/user-attachments/assets/46b82fa8-835b-4e7d-b8e2-21ce1dafe790" />
 
 
  <h2> 7. Configure Users (Customers)</h2>
