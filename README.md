@@ -6,6 +6,7 @@
 This lab demonstrates the post-installation configuration of osTicket, focusing on the organizational setup required to manage a professional IT support workflow.<br>
 The focus of this section is on defining user roles, establishing departments, and configuring Service Level Agreements (SLAs). These steps are essential for transforming a fresh installation into a structured environment capable of routing and resolving support tickets efficiently.
 
+<h2>(Coming Soon) Video Demonstration</h2>
 
 <h2>Environments and Technologies Used</h2>
 
