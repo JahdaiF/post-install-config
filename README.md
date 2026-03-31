@@ -46,7 +46,7 @@ Once logged in, notice the tab in the top-right corner. Understanding the differ
 
 
 - Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
-- Agent Panel: This is the where tickets and users are managed.
+- Agent Panel: This is where tickets and users are managed.
 <br>
 <br>
 <img width="1555" height="938" alt="Screenshot (1361)" src="https://github.com/user-attachments/assets/288c6430-c9ca-43bb-931e-04a2102bfa77" />
@@ -164,7 +164,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
         * Email: **Ken@gmail.com**
      
 <br>
-<br.
+<br>
 <img width="1551" height="1146" alt="Screenshot (1426)" src="https://github.com/user-attachments/assets/0cb9e69f-0e31-4664-b5af-7af55c23ee2a" />   
 <img width="1553" height="1148" alt="Screenshot (1427)" src="https://github.com/user-attachments/assets/18d73f57-6418-42d8-aa93-82682de4d752" />   
 <img width="1552" height="1123" alt="Screenshot (1428)" src="https://github.com/user-attachments/assets/64fbc9b0-d0fe-4dd3-98a0-0924eb68714c" />
@@ -205,7 +205,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Topic: <b>Equipment Request</b> Parent Topic: <b>General Inquiry</b>
   - Topic: <b>Password Reset</b> Parent Topic: <b>Report a Problem</b>
   - Topic: <b>Other</b> Parent Topic: <b>General Inquiry</b>
- 4. click <b> Add Topic</b> for each entry.
+ 4. Click <b> Add Topic</b> for each entry.
 <br>
 <br>
 <img width="1550" height="1138" alt="Screenshot (1445)" src="https://github.com/user-attachments/assets/f3689ae2-4922-40f2-bef8-4a2c3e14419a" />
