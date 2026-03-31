@@ -18,7 +18,7 @@ The focus of this section is on defining user roles, establishing departments, a
 - HeidiSQL(Database Client)
 
 <h2>Operating Systems Used </h2>
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
 
 <h2>System Access & Portals</h2>
 The following URLs are used to access the osTicket environment:
@@ -37,6 +37,8 @@ Login Credentials:
 - <b>URL:</b> http://localhost/osTicket/scp
 - <b>Username:</b> adminuser
 - <b>Password:</b> Password1
+<br>
+<br>
 <img width="1548" height="942" alt="Screenshot (1375)" src="https://github.com/user-attachments/assets/114affc8-1ccf-4ce7-a5af-dae7f22a9ad7" />
 
 <h2> Admin Panel vs. Agent Panel </h2>
@@ -45,7 +47,8 @@ Once logged in, notice the tab in the top-right corner. Understanding the differ
 
 - Admin Panel: This is used to set up Departments, Roles, and System Settings. <br>
 - Agent Panel: This is the where tickets and users are managed.
-
+<br>
+<br>
 <img width="1555" height="938" alt="Screenshot (1361)" src="https://github.com/user-attachments/assets/288c6430-c9ca-43bb-931e-04a2102bfa77" />
 <img width="1559" height="948" alt="Screenshot (1362)" src="https://github.com/user-attachments/assets/46549685-a69f-46ec-a9d8-1c1e5f045368" />
 
@@ -57,7 +60,8 @@ Now that you are in the <b>Admin Panel</b>, we will create a Role to define spec
  3. Enter "Supreme Admin" <br>
  4. Navigate through the tabs (Tickets, Tasks, Acknowledgements) and check the boxes to grant full authority <br>
  5. Click <b>Add Role</b> <br>
-
+<br>
+<br>
 <img width="1557" height="967" alt="Screenshot (1390)" src="https://github.com/user-attachments/assets/dc587f27-d19d-45e6-aaa6-ac604f2acc89" />
 <img width="1557" height="971" alt="Screenshot (1391)" src="https://github.com/user-attachments/assets/0c33002d-63f3-43c7-8d5a-8da6f7a2fc20" />
 <img width="1550" height="969" alt="Screenshot (1392)" src="https://github.com/user-attachments/assets/a1492213-989c-4350-89bf-dfba94ab220d" />
@@ -75,19 +79,21 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  2. Click <b>Add New Department</b> <br>
  3. Enter Parent: <b>Top Level Department</b> and Name: <b>SysAdmins</b> <br>
  4. Click <b>Create Department</b> <br>
-
+<br>
+<br>
 <img width="1558" height="976" alt="Screenshot (1399)" src="https://github.com/user-attachments/assets/3eaa0934-5249-44c0-98b3-c3e2bd01f357" />
 <img width="1549" height="972" alt="Screenshot (1400)" src="https://github.com/user-attachments/assets/6f566bb8-e937-4043-8b22-85619eff54f8" />
 <img width="1555" height="1138" alt="Screenshot (1401)" src="https://github.com/user-attachments/assets/96c61f6f-30d2-40a8-8932-65bed8a272d4" />
 <img width="1547" height="1136" alt="Screenshot (1402)" src="https://github.com/user-attachments/assets/8ce3316b-0525-4a61-bda0-7fb135c4b3aa" />
 
  <h2> 4. Configure Teams</h2>
- While <b>Departments</b> categorize Agents by their primary job fuction, <b>Teams</b> allow you to group Agents from various departments to collaborate on specific tasks or projects <br>
+ While <b>Departments</b> categorize Agents by their primary job function, <b>Teams</b> allow you to group Agents from various departments to collaborate on specific tasks or projects. <br>
  1. Go to <b>Agents → Teams</b> <br>
  2. Click <b>Add New Team</b> <br>
  3. Enter <b>Online Banking</b> <br>
- 4. Click <b>Create Team</b> <br>  <b></b>
-
+ 4. Click <b>Create Team</b> <br>  
+<br>
+<br>
 <img width="1557" height="1140" alt="Screenshot (1403)" src="https://github.com/user-attachments/assets/222c6b1a-e320-4f59-adcc-0b88550200f6" />
 <img width="1552" height="1136" alt="Screenshot (1404)" src="https://github.com/user-attachments/assets/6597fa89-6d77-4792-a871-0c9daa67de7b" />
 <img width="1558" height="1126" alt="Screenshot (1405)" src="https://github.com/user-attachments/assets/66739919-46fd-40d2-9452-650a7b2e8a15" />
@@ -98,7 +104,8 @@ Next we will set up Departments. Departments are used to route tickets to the ri
  2. Locate the setting <b>"Registration Required"</b> <br>
  3. Uncheck the box that says <b>Require registration and login to create tickets</b> <br>
  4. Click <b>Save Changes</b> at the bottom of the page <br>
-
+<br>
+<br>
 <img width="1550" height="1136" alt="Screenshot (1407)" src="https://github.com/user-attachments/assets/6b2f60db-0555-48a8-a1d0-2100fccb290c" />
 <img width="1555" height="1136" alt="Screenshot (1409)" src="https://github.com/user-attachments/assets/0b192fd8-4069-40fd-b114-e3354d3059c7" />
 
@@ -117,7 +124,8 @@ Next we will set up Departments. Departments are used to route tickets to the ri
         * Role: **Supreme Admin**
     * **Teams:**
         * Assigned Teams: **Online Banking**
-    
+<br>
+<br>
 <img width="1557" height="1135" alt="Screenshot (1410)" src="https://github.com/user-attachments/assets/cf592144-998d-4714-899c-db265e931384" />
 <img width="1551" height="1134" alt="Screenshot (1411)" src="https://github.com/user-attachments/assets/82302fd2-4f9c-4afc-8c98-e1cfbc331806" />
 <img width="1563" height="1152" alt="Screenshot (1413)" src="https://github.com/user-attachments/assets/da1ed4bb-ab9d-46d0-8033-eefe434f241f" />
@@ -134,14 +142,15 @@ Next we will set up Departments. Departments are used to route tickets to the ri
     * **Access:**
         * Department: **Support**
         * Role: **View only**
-    
+<br>
+<br>
 <img width="1555" height="1142" alt="Screenshot (1418)" src="https://github.com/user-attachments/assets/49c2eaf0-10ed-4eba-aba1-349387e66923" />
 <img width="1558" height="1146" alt="Screenshot (1419)" src="https://github.com/user-attachments/assets/649b8037-4c64-48c7-816a-d228fe494e96" />
 <img width="1415" height="1169" alt="Screenshot (1014)" src="https://github.com/user-attachments/assets/46b82fa8-835b-4e7d-b8e2-21ce1dafe790" />
 
 
  <h2> 7. Configure Users (Customers)</h2>
- Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>  <br>
+ Next we will add the Users. These are the customers who will be submitting tickets for help. Note that this is done via the <b>Agent Panel</b>.  <br>
  
 1. Switch to **Agent Panel** (top right link)
 2. Go to **Users → Add New User**
@@ -154,7 +163,8 @@ Next we will set up Departments. Departments are used to route tickets to the ri
         * Name: **Ken**
         * Email: **Ken@gmail.com**
      
-   
+<br>
+<br.
 <img width="1551" height="1146" alt="Screenshot (1426)" src="https://github.com/user-attachments/assets/0cb9e69f-0e31-4664-b5af-7af55c23ee2a" />   
 <img width="1553" height="1148" alt="Screenshot (1427)" src="https://github.com/user-attachments/assets/18d73f57-6418-42d8-aa93-82682de4d752" />   
 <img width="1552" height="1123" alt="Screenshot (1428)" src="https://github.com/user-attachments/assets/64fbc9b0-d0fe-4dd3-98a0-0924eb68714c" />
@@ -164,7 +174,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
 <img width="1548" height="1135" alt="Screenshot (1432)" src="https://github.com/user-attachments/assets/07447929-8f60-4a2d-b502-3aa81c5de3b5" />
 <img width="1549" height="1128" alt="Screenshot (1433)" src="https://github.com/user-attachments/assets/a06f1ac5-4e1b-4f7c-8330-e3c3045f7e66" />
 
- <h2> 8. Configure SLA (Service Level Agreements</h2>
+ <h2> 8. Configure SLA (Service Level Agreements)</h2>
  Now we will configure SLAs. SLAs define how quickly your team must respond to tickets based on their severity. <br>
  1. Go to <b>Admin Panel</b> → <b>Manage</b> → <b>SLA</b> <br>
  2. Add new SLA: <br>
@@ -172,7 +182,8 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - <b>Sev-A:</b> Grace Period: 1 hour, Schedule: 24/7. <br>
   - <b>Sev-B:</b> Grace Period: 4 hours, Schedule: 24/7. <br>
   - <b>Sev-C:</b> Grace Period: 8 hours, Schedule: Business Hours. <br>
-  
+<br>
+<br>
 <img width="1547" height="1129" alt="Screenshot (1434)" src="https://github.com/user-attachments/assets/7a3a52f2-b55e-4faa-bdb7-d75529e12d04" />
 <img width="1552" height="1136" alt="Screenshot (1435)" src="https://github.com/user-attachments/assets/67c3fc15-5a79-40f0-bf8e-20de0041ba6b" />
 <img width="1554" height="1134" alt="Screenshot (1436)" src="https://github.com/user-attachments/assets/1b003531-60de-465e-ac5c-073734256a3e" />
@@ -194,8 +205,9 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Topic: <b>Equipment Request</b> Parent Topic: <b>General Inquiry</b>
   - Topic: <b>Password Reset</b> Parent Topic: <b>Report a Problem</b>
   - Topic: <b>Other</b> Parent Topic: <b>General Inquiry</b>
- 4. click <b>Click Add Topic</b> for reach entry
- 
+ 4. click <b> Add Topic</b> for each entry
+<br>
+<br>
 <img width="1550" height="1138" alt="Screenshot (1445)" src="https://github.com/user-attachments/assets/f3689ae2-4922-40f2-bef8-4a2c3e14419a" />
 <img width="1554" height="1130" alt="Screenshot (1446)" src="https://github.com/user-attachments/assets/f214e73e-cf6c-4525-a54c-9943564022df" />
 <img width="1562" height="1142" alt="Screenshot (1447)" src="https://github.com/user-attachments/assets/4bc8d26d-8c47-4586-93ee-80e26ebd36a8" />
