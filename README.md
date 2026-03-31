@@ -205,7 +205,7 @@ Next we will set up Departments. Departments are used to route tickets to the ri
   - Topic: <b>Equipment Request</b> Parent Topic: <b>General Inquiry</b>
   - Topic: <b>Password Reset</b> Parent Topic: <b>Report a Problem</b>
   - Topic: <b>Other</b> Parent Topic: <b>General Inquiry</b>
- 4. click <b> Add Topic</b> for each entry
+ 4. click <b> Add Topic</b> for each entry.
 <br>
 <br>
 <img width="1550" height="1138" alt="Screenshot (1445)" src="https://github.com/user-attachments/assets/f3689ae2-4922-40f2-bef8-4a2c3e14419a" />
